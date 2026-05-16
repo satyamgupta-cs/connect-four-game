@@ -25,6 +25,3 @@ A modern and interactive Connect Four game built using Python and Tkinter.
 - Python
 - Tkinter
 
----
-
-## Project Structure
